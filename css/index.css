@@ -258,9 +258,10 @@ footer nav address {
 }
 
 .team-box h1 {
-	margin: 20px 20px;
+	margin: 0 20px 55px;
 	font-size: 5rem;
-	color: white;
+    color: white;
+    transform: rotate(-7.5deg);
 
 }
 
@@ -270,7 +271,7 @@ footer nav address {
 	line-height: 1.2;
 	border-radius: 5px;
 	width: 500px;
-
+    
 	background: rgba(255, 255, 255, 0.507)
 }
 
@@ -383,7 +384,8 @@ footer nav address {
 		-1px -1px 0 #000,
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
-		1px 1px 0 #000;
+        1px 1px 0 #000;
+        
     }
 
     .team-box p {
